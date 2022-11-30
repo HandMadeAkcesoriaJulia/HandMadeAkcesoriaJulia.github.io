@@ -1,5 +1,5 @@
 name = input('enter your name: ')
-print(name+' amogus ')
+print(' hello '+name)
 
 passengers = input('when do passengers arrive?')
 train = input('when does the train depart?')

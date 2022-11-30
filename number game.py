@@ -1,13 +1,14 @@
 import random
+'''
+mynumber = 0
+count = 0
+while(mynumber != 1000 and mynumber != 1):
+    mynumber = random.randrange(1, 1001)
+    print(mynumber)
+    count += 1
 
-#mynumber = 0
-#count = 0
-#while(mynumber != 1000 and mynumber != 1):
-#    mynumber = random.randrange(1, 1001)
-#    print(mynumber)
-#    count += 1
-
-#print(count)
+print(count)
+'''
 
 mynumber = random.randrange(1, 1001)
 guess = 0
